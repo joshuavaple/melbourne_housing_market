@@ -1,0 +1,5 @@
+matplotlib==3.5.3
+numpy>=1.17
+ipykernel==6.19.4
+pandas==1.5.2
+pathlib==1.0.1
